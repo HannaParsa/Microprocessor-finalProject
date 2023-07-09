@@ -1,0 +1,82 @@
+Dependencies for Project 'McProject', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6160000::V6.16::ARMCLANG
+F (.\Main.h)(0x6007C8E4)()
+F (.\Display.c)(0x6007C8E4)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -flto -funsigned-char -fshort-enums -fshort-wchar-D__MICROLIB -gdwarf-4 -fno-ldm-stm -Os -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/_Target_1-IE:/Apps/Keil_MDK-ARM_5.36_Downloadly.ir/pack/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IE:/Apps/Keil_MDK-ARM_5.36_Downloadly.ir/pack/Keil/STM32F4xx_DFP/2.17.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o ./objects/display.o -MD)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x63748932)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xe.h)(0x63748932)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\core\ARM\ARMCLANG\include\stdint.h)(0x60353908)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x63748932)
+I (Display.h)(0x6007C8E4)
+I (Main.h)(0x6007C8E4)
+F (.\Display.h)(0x6007C8E4)()
+F (.\Wave.c)(0x649EB949)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -flto -funsigned-char -fshort-enums -fshort-wchar-D__MICROLIB -gdwarf-4 -fno-ldm-stm -Os -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/_Target_1-IE:/Apps/Keil_MDK-ARM_5.36_Downloadly.ir/pack/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IE:/Apps/Keil_MDK-ARM_5.36_Downloadly.ir/pack/Keil/STM32F4xx_DFP/2.17.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o ./objects/wave.o -MD)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x63748932)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xe.h)(0x63748932)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\core\ARM\ARMCLANG\include\stdint.h)(0x60353908)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x63748932)
+I (Wave.h)(0x6007C8E4)
+I (Input.h)(0x6007C8E4)
+I (UsartUnit.h)(0x6007C8E4)
+F (.\Wave.h)(0x6007C8E4)()
+F (.\Input.c)(0x649ECBBD)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -flto -funsigned-char -fshort-enums -fshort-wchar-D__MICROLIB -gdwarf-4 -fno-ldm-stm -Os -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/_Target_1-IE:/Apps/Keil_MDK-ARM_5.36_Downloadly.ir/pack/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IE:/Apps/Keil_MDK-ARM_5.36_Downloadly.ir/pack/Keil/STM32F4xx_DFP/2.17.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o ./objects/input.o -MD)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x63748932)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xe.h)(0x63748932)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\core\ARM\ARMCLANG\include\stdint.h)(0x60353908)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x63748932)
+I (Input.h)(0x6007C8E4)
+F (.\Input.h)(0x6007C8E4)()
+F (.\Main.c)(0x649ECCB6)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -flto -funsigned-char -fshort-enums -fshort-wchar-D__MICROLIB -gdwarf-4 -fno-ldm-stm -Os -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/_Target_1-IE:/Apps/Keil_MDK-ARM_5.36_Downloadly.ir/pack/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IE:/Apps/Keil_MDK-ARM_5.36_Downloadly.ir/pack/Keil/STM32F4xx_DFP/2.17.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o ./objects/main.o -MD)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x63748932)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xe.h)(0x63748932)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\core\ARM\ARMCLANG\include\stdint.h)(0x60353908)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x63748932)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\core\ARM\ARMCLANG\include\stdio.h)(0x6035390C)
+I (Main.h)(0x6007C8E4)
+I (Display.h)(0x6007C8E4)
+I (Input.h)(0x6007C8E4)
+I (Wave.h)(0x6007C8E4)
+I (UsartUnit.h)(0x6007C8E4)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\core\ARM\ARMCLANG\include\math.h)(0x60353902)
+F (.\UsartUnit.c)(0x6007C8E4)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -flto -funsigned-char -fshort-enums -fshort-wchar-D__MICROLIB -gdwarf-4 -fno-ldm-stm -Os -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/_Target_1-IE:/Apps/Keil_MDK-ARM_5.36_Downloadly.ir/pack/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IE:/Apps/Keil_MDK-ARM_5.36_Downloadly.ir/pack/Keil/STM32F4xx_DFP/2.17.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o ./objects/usartunit.o -MD)
+I (UsartUnit.h)(0x6007C8E4)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x63748932)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xe.h)(0x63748932)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\core\ARM\ARMCLANG\include\stdint.h)(0x60353908)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x63748932)
+F (.\UsartUnit.h)(0x6007C8E4)()
+F (RTE\Device\STM32F401RETx\startup_stm32f401xe.s)(0x63748932)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto -c-gdwarf-4 -Wa,armasm,--pd,"__MICROLIB SETA 1"-I./RTE/_Target_1-IE:/Apps/Keil_MDK-ARM_5.36_Downloadly.ir/pack/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IE:/Apps/Keil_MDK-ARM_5.36_Downloadly.ir/pack/Keil/STM32F4xx_DFP/2.17.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 536" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"STM32F401xE SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32f401xe.o)
+F (RTE\Device\STM32F401RETx\system_stm32f4xx.c)(0x63748932)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -flto -funsigned-char -fshort-enums -fshort-wchar-D__MICROLIB -gdwarf-4 -fno-ldm-stm -Os -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/_Target_1-IE:/Apps/Keil_MDK-ARM_5.36_Downloadly.ir/pack/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IE:/Apps/Keil_MDK-ARM_5.36_Downloadly.ir/pack/Keil/STM32F4xx_DFP/2.17.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o ./objects/system_stm32f4xx.o -MD)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x63748932)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xe.h)(0x63748932)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\core\ARM\ARMCLANG\include\stdint.h)(0x60353908)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D4282A)
+I (E:\Apps\Keil_MDK-ARM_5.36_Downloadly.ir\pack\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x63748932)
